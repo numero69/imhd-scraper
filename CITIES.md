@@ -1,0 +1,22 @@
+# Working city codes:
+- ba
+- nr
+- hc
+- bb
+- ke
+- lm
+- nz
+- pn
+- tatry
+- pb
+- po
+- pd
+- rk
+- se
+- si
+- sn
+- tn
+- tt
+- zn
+- za
+- transport
