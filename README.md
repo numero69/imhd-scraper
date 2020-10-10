@@ -16,3 +16,10 @@ This python script can:
 
 ## What do you need for this to work:
 1. BeatifulSoup4 - Get this by typing `pip install bf4` into your terminal
+2. Python if using the source file
+
+## How to use this scraper:
+1. Run the file
+2. Input the city code - [List of working city codes](CITIES.md)
+3. Wait until the printing is finished
+4. Your sheet is created in the same directory
