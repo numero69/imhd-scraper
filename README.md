@@ -7,7 +7,7 @@ This python script can:
 - Get the 20 latest news from **any** city supported by imhd.sk with info such as title, category and date posted
 - Create an Microsoft Office Excel Sheet file with all the data scraped
 
-** Changelog:**
+** Changelog: **
 - [x] Format the date to work with Excel and print at the same time
 - [ ] Get the author of the doc
 - [ ] Hyperlink to the doc
